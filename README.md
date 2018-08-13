@@ -1,4 +1,4 @@
-# Testing
+# System Testing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+## Process
+
+1) npm install
+2) ng serve
+3) cd /src /app/api/rest
+4) npm install
+5) npm start
+
+## Required 
+  1) Mongo Db (mongoose) for the `data base`
+  2) Node Js  for the 'backend and envirment status'
+  3) angular cli as latest version like for the `ANGULAR 6`
+  4) Express Js for the rest api of `REST LIB OF NODE JS`'
